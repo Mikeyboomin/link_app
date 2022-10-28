@@ -1,0 +1,25 @@
+.slacker{
+    width: 30px;
+    /* margin-right: auto;
+    margin-left: auto; */
+    display: inline;
+    padding: 20px 20px;
+    justify-content: center;
+    align-items: center;
+}
+
+.github{
+    width: 30px;
+    /* margin-right: auto;
+    margin-left: auto; */
+    display: inline;
+    padding: 20px 0px;
+    justify-content: center;
+    align-items: center;
+}
+
+.center-logo{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
